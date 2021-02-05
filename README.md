@@ -1,8 +1,8 @@
 # Render_Without_Personal
 
-To create a without some functions must be added to the unity render, in this case, I use the universal render pipeline
+To create a without some functions must be added to the unity render, in this case, I use the **Universal render pipeline**
 
-1. In the universal render pipeline we are going to add a render object (experimental)
+1. In the universal render pipeline we are going to add a **Render Object (experimental)**
 
 ![image](https://user-images.githubusercontent.com/26027219/107083580-d8e37100-67c3-11eb-9512-2ff91ff75c98.png)
 
